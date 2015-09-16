@@ -16,6 +16,7 @@ gem 'paperclip', '~> 4.2'
 gem 'masonry-rails'
 gem 'will_paginate-bootstrap'
 gem 'acts_as_votable'
+gem 'simple_form'
 
 group :production do
   gem 'pg'
